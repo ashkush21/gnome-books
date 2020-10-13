@@ -2,10 +2,10 @@
 
 Google Summer of Code project for GNOME.
 
-Books is application for listing, searching and reading eBooks.
+Books is application used for listing, searching and reading eBooks.
 More information on https://wiki.gnome.org/Outreach/SummerOfCode/2014/Projects/MartaMilakovic_GnomeBooks
 
-Books will be implemented upon the application gnome-documents, and it is going to live in the same git repository. This would be a great solution regarding code duplication, because it would be possible to reuse relevant code blocks from gnome-documents and add extra features related to eBooks.
+Books will be implemented upon the application, gnome-documents, and it is going to exist in the same git repository. This would be a great solution regarding code duplication, because it would be possible to reuse relevant code blocks from gnome-documents and add extra features related to eBooks.
 
 Using epub.js library for the reading mode.
 
